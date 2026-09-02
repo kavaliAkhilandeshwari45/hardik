@@ -50,7 +50,7 @@ hardik_site/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/hardik_site.git
+git clone https://github.com/KavaliAkhilandeshwari45/hardik.git
 ```
 
 ### Step 2: Navigate to the Project Folder
@@ -90,7 +90,7 @@ You can easily host this static website using **GitHub Pages**.
 Your website will then be available at:
 
 ```text
-https://kavalAakhilandeshwari45.github.io/hardik/
+https://kavaliAkhilandeshwari45.github.io/hardik/
 ```
 
 ## 🖼️ Image Setup
