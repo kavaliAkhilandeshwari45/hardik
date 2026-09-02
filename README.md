@@ -90,7 +90,7 @@ You can easily host this static website using **GitHub Pages**.
 Your website will then be available at:
 
 ```text
-https://kavaliakhilandeshwari45.github.io/hardik_site/
+https://kavalAakhilandeshwari45.github.io/hardik/
 ```
 
 ## 🖼️ Image Setup
